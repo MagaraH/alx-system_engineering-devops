@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo  G
+id -G
